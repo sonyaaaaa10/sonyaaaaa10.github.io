@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css?family=Bree Serif&display=swap');
+body {
+    font-family: Bree Serif, roboto;
+}
+.nav-link {
+    color: rgb(178, 207, 221);
+}
+
+
+.navbar-nav .nav-link.active {
+    color: rgb(10, 35, 119);
+}
+
+.navbar-brand img {
+    width: 60px;
+}
+
+.navbar-toggler {
+    background-color: rgb(139, 139, 223);
+}
+
+.card a{
+    text-decoration: none;
+color: black;
+}
